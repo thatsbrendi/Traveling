@@ -1254,7 +1254,7 @@ hr {
         text-align: center;
         transition: 0.3s;
         z-index: 999;
-        opacity: 0.5;
+        opacity: 0.8;
     }
 
     .nav-menu.active {
@@ -1272,11 +1272,11 @@ hr {
     }
 
     .nav-link {
-        color: #fff;
+        color: #000;
     }
 
     .sticky .nav-link {
-        color: #fff;
+        color: #000;
     }
 
     .sticky ul li a {
